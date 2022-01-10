@@ -12,4 +12,4 @@
 *.out
 
 # Remove credentials file
-credentials/admin.conf
+/credentials/*
